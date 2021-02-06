@@ -29,7 +29,6 @@
     - 安装 [FontMod](https://github.com/ysc3839/FontMod) 修改字体，方法见 [TGgeek](https://t.me/TGgeek/760) 
     - 安装 [Telegram-Anti-Revoke](https://github.com/SpriteOvO/Telegram-Anti-Revoke) 防撤回
   - TIM *使用 2.3.2 原版，安装在虚拟机中，安装包见 Resources 
-    - 
 
 > *本 repo 部分参考了 [SekiBetu/Windows](https://github.com/SekiBetu/Windows) 。*
 
