@@ -5,6 +5,12 @@
 下面正式开始清单：
 
 - [Windows](#Windows)
+  - [代理软件](#代理软件)
+  - [浏览器](#浏览器)
+  - [IM 软件](#im-软件)
+  - [视频相关](#视频相关)
+  - [音频相关](#音频相关)
+  - [图片相关](#图片相关)
 
 # Windows
 
@@ -29,21 +35,22 @@
   - 安装 [FontMod](https://github.com/ysc3839/FontMod) 修改字体，方法见 [TGgeek](https://t.me/TGgeek/760) 
   - 安装 [Telegram-Anti-Revoke](https://github.com/SpriteOvO/Telegram-Anti-Revoke) 防撤回
 - [HexChat](https://hexchat.github.io/) *IRC 软件
-- [TIM](https://office.qq.com/) *3.0+ 不配叫 TIM ，使用 2.3.2 原版，安装在虚拟机中，安装包见 Resources 
+- [TIM](https://office.qq.com/) *3.0+ 不配叫 TIM ，使用 2.3.2 原版，安装在虚拟机中，安装包见 [Resources](https://github.com/RtYkk/Personal-Software-List/Resources) 
 - [微信](https://windows.weixin.qq.com/?lang=en_US) *死妈张小龙还我网页登录，滚去虚拟机
 - [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/index) *可选项，[手机淘宝](https://play.google.com/store/apps/details?id=com.taobao.taobao&hl=en_US&gl=US)或许是上位替代，安装在虚拟机中
 
-- 视频相关
-  - [Potplayer](https://potplayer.daum.net/)
-    - 配合 [LAVFilters](https://github.com/Nevcairiel/LAVFilters) 使用，配置方法见 [vcb-s](https://vcb-s.com/archives/7228) ，配置文件备份见 Resources 
-    - [MadVR](http://madvr.com/) 作为可选项
-  - [VLC](https://www.videolan.org/)
-  - [MPC-BE](https://sourceforge.net/projects/mpcbe/) *与 MPC-HC 二选一
-  - [MPC-HC](https://github.com/clsid2/mpc-hc) *与 MPC-BE 二选一，第三方维护的版本，官方版已经停更
-  - [mpv](https://github.com/mpv-player/mpv) *可以尝试一下
-  - [lossless-cut](https://github.com/mifi/lossless-cut) 
-  - [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) *可选项
-  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/edit) *可选项
+## 视频相关
+
+- [Potplayer](https://potplayer.daum.net/)
+  - 配合 [LAVFilters](https://github.com/Nevcairiel/LAVFilters) 使用，配置方法见 [vcb-s](https://vcb-s.com/archives/7228) ，配置文件备份见 [Resources](https://github.com/RtYkk/Personal-Software-List/Resources) 
+  - [MadVR](http://madvr.com/) 作为可选项
+- [VLC](https://www.videolan.org/)
+- [MPC-BE](https://sourceforge.net/projects/mpcbe/) *与 MPC-HC 二选一
+- [MPC-HC](https://github.com/clsid2/mpc-hc) *与 MPC-BE 二选一，第三方维护的版本，官方版已经停更
+- [mpv](https://github.com/mpv-player/mpv) *可以尝试一下
+- [lossless-cut](https://github.com/mifi/lossless-cut) 
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) *可选项
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/edit) *可选项
 
 ## 音频相关
 
@@ -52,6 +59,7 @@
 - [Audacity](https://www.audacityteam.org/)
 - [spek](http://spek.cc/) *[GitHub](https://github.com/alexkay/spek) 
 - [Adobe Audition](https://www.adobe.com/products/audition.html) 
+- [Exact Audio Copy](https://www.exactaudiocopy.de/) *配置文件备份见 [Resources](https://github.com/RtYkk/Personal-Software-List/Resources) 
 
 ## 图片相关
 
