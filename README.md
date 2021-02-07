@@ -18,6 +18,7 @@
   - [两步验证](#两步验证) 
   - [网络相关](#网络相关) 
   - [虚拟机和沙盒](#虚拟机和沙盒) 
+  - [VPS 相关](#vps-相关) 
 
 # Windows
 
@@ -131,6 +132,14 @@
 - [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html) 
 - [VirtualBox](https://www.virtualbox.org/) *可选项，开源替代
 - [Sandboxie](https://www.sandboxie.com/) *推荐第三方维护版 [Sandboxie-Plus](https://github.com/sandboxie-plus/Sandboxie) 
+
+## VPS 相关
+
+- [Xshell](https://www.netsarang.com/en/xshell/) 
+- [FileZilla®](https://filezilla-project.org/) 
+- [FinalShell](https://www.hostbuf.com/t/988.html) *上述两者二合一，功能更多但需开通高级版
+
+
 
 > *本 repo 部分参考了 [SekiBetu/Windows](https://github.com/SekiBetu/Windows) 。*
 
