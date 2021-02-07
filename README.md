@@ -2,6 +2,8 @@
 
 ## **原则：绝不在宿主机上安装  *任何一款国产大型公司*  软件**。一切国产软件如非必要请进虚拟机。
 
+# Still WIP
+
 下面正式开始清单：
 
 - [Windows](#Windows)
@@ -15,6 +17,7 @@
   - [压缩软件](#压缩软件) 
   - [硬件检测软件](#硬件检测软件) 
   - [BitTorrent 软件](#bittorrent-软件) 
+  - [下载软件](#下载软件)
   - [两步验证](#两步验证) 
   - [网络相关](#网络相关) 
   - [虚拟机和沙盒](#虚拟机和沙盒) 
@@ -115,6 +118,10 @@
 - µTorrent 2.2.1 （推荐）或 µTorrent 2.0.4
 - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 - [Resilio Sync](https://www.resilio.com/individuals/) *可选项， pro 注册文件见 [Resources](https://github.com/RtYkk/Personal-Software-List/tree/master/Resources) 
+
+## 下载软件
+
+- [Internet Download Manager](https://www.internetdownloadmanager.com/) 
 
 ## 两步验证
 
