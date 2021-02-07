@@ -15,6 +15,9 @@
   - [压缩软件](#压缩软件) 
   - [硬件检测软件](#硬件检测软件) 
   - [BitTorrent 软件](#bittorrent-软件) 
+  - [两步验证](#两步验证) 
+  - [网络相关](#网络相关) 
+  - [虚拟机和沙盒](#虚拟机和沙盒) 
 
 # Windows
 
@@ -39,7 +42,11 @@
   - 安装 [FontMod](https://github.com/ysc3839/FontMod) 修改字体，方法见 [TGgeek](https://t.me/TGgeek/760) 
   - 安装 [Telegram-Anti-Revoke](https://github.com/SpriteOvO/Telegram-Anti-Revoke) 防撤回
 - [HexChat](https://hexchat.github.io/) *IRC 软件
-- [TIM](https://office.qq.com/) *3.0+ 不配叫 TIM ，使用 2.3.2 原版，安装在虚拟机中，安装包见 [Resources](https://github.com/RtYkk/Personal-Software-List/tree/master/Resources) 
+- [TIM](https://office.qq.com/) 
+  - 3.0+ 不配叫 TIM 
+  - 使用 2.3.2 原版，安装在虚拟机中，安装包见 [Resources](https://github.com/RtYkk/Personal-Software-List/tree/master/Resources) 
+  - 使用防火墙和组策略屏蔽更新
+- 修改版 QQ * TIM 的替代，可以尝试但有封号风险，例： [NtrQQ](https://github.com/NtrQQ/download) 
 - [微信](https://windows.weixin.qq.com/?lang=en_US) *死妈张小龙还我网页登录，滚去虚拟机
 - [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/index) *可选项，[手机淘宝](https://play.google.com/store/apps/details?id=com.taobao.taobao&hl=en_US&gl=US)或许是上位替代，安装在虚拟机中
 
@@ -59,12 +66,20 @@
 
 ## 音频相关
 
-- [foobar2000](https://www.foobar2000.org/) *可选择 [Asion 的汉化版](http://blog.sina.com.cn/go2spa)
+- [foobar2000](https://www.foobar2000.org/) 
+
+  - 可选择 [Asion 的汉化版](http://blog.sina.com.cn/go2spa)
+
   - 使用 [FFmpeg](https://github.com/BtbN/FFmpeg-Builds) 作为解码器
+
 - [Audacity](https://www.audacityteam.org/)
+
 - [spek](http://spek.cc/) *[GitHub](https://github.com/alexkay/spek) 
+
 - [Adobe Audition](https://www.adobe.com/products/audition.html) 
+
 - [Exact Audio Copy](https://www.exactaudiocopy.de/) *配置文件备份见 [Resources](https://github.com/RtYkk/Personal-Software-List/tree/master/Resources) 
+
 - [MP3tag](https://www.mp3tag.de/en/) 
 
 ## 图片相关
@@ -99,6 +114,23 @@
 - µTorrent 2.2.1 （推荐）或 µTorrent 2.0.4
 - [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 - [Resilio Sync](https://www.resilio.com/individuals/) *可选项， pro 注册文件见 [Resources](https://github.com/RtYkk/Personal-Software-List/tree/master/Resources) 
+
+## 两步验证
+
+- [Authy](https://authy.com/) 
+
+## 网络相关
+
+- [BestTrace](https://www.ipip.net/product/client.html) 
+- [Wireshark](https://www.wireshark.org/) 
+- [YogaDNS](https://yogadns.com/) *效率低，不推荐，使用 [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg) 完美替代
+- [Simple DNSCrypt](https://simplednscrypt.org/) *可选项， [GitHub](https://github.com/bitbeans/SimpleDnsCrypt) 
+
+## 虚拟机和沙盒
+
+- [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html) 
+- [VirtualBox](https://www.virtualbox.org/) *可选项，开源替代
+- [Sandboxie](https://www.sandboxie.com/) *推荐第三方维护版 [Sandboxie-Plus](https://github.com/sandboxie-plus/Sandboxie) 
 
 > *本 repo 部分参考了 [SekiBetu/Windows](https://github.com/SekiBetu/Windows) 。*
 
