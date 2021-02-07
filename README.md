@@ -29,14 +29,17 @@
   - TIM *使用 2.3.2 原版，安装在虚拟机中，安装包见 Resources 
   - [微信](https://windows.weixin.qq.com/?lang=en_US) *死妈张小龙还我网页登录，滚去虚拟机
   - [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/index) *可选项，[手机淘宝](https://play.google.com/store/apps/details?id=com.taobao.taobao&hl=en_US&gl=US)或许是上位替代，安装在虚拟机中
-- 视频软件
-  - Potplayer
+- 视频相关
+  - [Potplayer](https://potplayer.daum.net/)
     - 配合 [LAVFilters](https://github.com/Nevcairiel/LAVFilters) 使用，配置方法见 [vcb-s](https://vcb-s.com/archives/7228) ，配置文件备份见 Resources 
-    - MadVR 作为可选项
+    - [MadVR](http://madvr.com/) 作为可选项
   - [VLC](https://www.videolan.org/)
   - [MPC-BE](https://sourceforge.net/projects/mpcbe/) *与 MPC-HC 二选一
   - [MPC-HC](https://github.com/clsid2/mpc-hc) *与 MPC-BE 二选一，第三方维护的版本，官方版已经停更
   - [mpv](https://github.com/mpv-player/mpv) *可选项，可以尝试一下
+  - [lossless-cut](https://github.com/mifi/lossless-cut) 
+  - [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) *可选项
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/edit) *可选项
 - 
 
 > *本 repo 部分参考了 [SekiBetu/Windows](https://github.com/SekiBetu/Windows) 。*
