@@ -22,6 +22,8 @@
   - [网络相关](#网络相关) 
   - [虚拟机和沙盒](#虚拟机和沙盒) 
   - [VPS 相关](#vps-相关) 
+  - [编辑器](#编辑器) 
+  - [Scoop](#Scoop) 
 
 # Windows
 
@@ -50,7 +52,7 @@
   - 3.0+ 不配叫 TIM 
   - 使用 2.3.2 原版，安装在虚拟机中，安装包见 [Resources](https://github.com/RtYkk/Personal-Software-List/tree/master/Resources) 
   - 使用防火墙和组策略屏蔽更新
-- 修改版 QQ * TIM 的替代，可以尝试但有封号风险，例： [NtrQQ](https://github.com/NtrQQ/download) 
+- 修改版 QQ *TIM 的替代，可以尝试但有封号风险，例： [NtrQQ](https://github.com/NtrQQ/download) 
 - [微信](https://windows.weixin.qq.com/?lang=en_US) *死妈张小龙还我网页登录，滚去虚拟机
 - [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/index) *可选项，[手机淘宝](https://play.google.com/store/apps/details?id=com.taobao.taobao&hl=en_US&gl=US)或许是上位替代，安装在虚拟机中
 
@@ -95,6 +97,7 @@
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) *推荐 Adobe Photoshop CC 2019 版本
 - [MagicEXIF](https://www.magicexif.com/) 
 - [ShareX](https://getsharex.com/) *[GitHub](https://github.com/ShareX/ShareX) 
+- [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) 
 
 ## 字幕相关
 
@@ -146,7 +149,21 @@
 - [FileZilla®](https://filezilla-project.org/) 
 - [FinalShell](https://www.hostbuf.com/t/988.html) *上述两者二合一，功能更多但需开通高级版
 
+## 编辑器
 
+- [Notepad++](https://notepad-plus-plus.org/) 
+- [Typora](https://typora.io/) 
+
+## Scoop
+
+*使用 Scoop 安装的部分 CLI 工具
+
+- [youtube-dl](https://youtube-dl.org/) *[GitHub](https://github.com/ytdl-org/youtube-dl)
+- [Git](https://git-scm.com/) *[GitHub](https://github.com/git/git) 
+- [curl](https://curl.se/) *[GitHub](https://github.com/curl/curl)
+- [BIND](https://www.isc.org/bind/)
+- [neofetch](https://github.com/dylanaraps/neofetch)
+- [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) 
 
 > *本 repo 部分参考了 [SekiBetu/Windows](https://github.com/SekiBetu/Windows) 。*
 
